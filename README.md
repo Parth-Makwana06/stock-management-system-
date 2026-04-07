@@ -1,4 +1,3 @@
-#Stock market management system
 Stock Market Simulation Platform built with PHP, MySQL, and modern front-end technologies :
 Buy & Sell Stocks in real-time
 Track Portfolio Performance with dynamic charts
